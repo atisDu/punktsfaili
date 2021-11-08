@@ -1,0 +1,11 @@
+# /dev/nvme0n1p3
+UUID=ad8a2495-22a8-467f-b405-49df46801369	/         	ext4      	rw,relatime	0 1
+
+# /dev/nvme0n1p1
+UUID=5C37-C629      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=ascii,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# /dev/nvme0n1p2
+UUID=685061d5-408d-43ec-92b3-cd7f980a4eb9	none      	swap      	defaults  	0 0
+
+# /dev/sda2 
+UUID=aef26a2f-ec57-43bd-9609-83ffdfb276f7      /media/Linuxdrive  ext4    exec,rw,relatime   0 0
